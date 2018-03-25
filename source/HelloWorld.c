@@ -1,5 +1,5 @@
 /**
- * @brief A hello world C program for GitHub testing
+ * @brief A hello world C program for trying GitHub functions
  * 
  * @file HelloWorld.c
  * @author llerineip
